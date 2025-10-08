@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0777985-A201-4396-B071-D3C996423843}|ContosoUniversity\\ContosoUniversity.csproj|d:\\powersoftit\\practice\\learn microsoft\\contosouniversity\\contosouniversity\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 41,
+          "SelectedChildIndex": 39,
           "Children": [
             {
               "$type": "Bookmark",
@@ -201,33 +209,72 @@
               "Name": "ST:1309131781:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Details.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Students\\Details.cshtml",
-              "ToolTip": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Details.cshtml",
-              "RelativeToolTip": "ContosoUniversity\\Views\\Students\\Details.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T13:05:43.755Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Index.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Students\\Index.cshtml",
-              "ToolTip": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Index.cshtml",
-              "RelativeToolTip": "ContosoUniversity\\Views\\Students\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Students\\Create.cshtml",
+              "ToolTip": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T01:49:49.954Z",
+              "WhenOpened": "2025-10-08T02:39:33.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Program.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Program.cs",
+              "ToolTip": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Program.cs",
+              "RelativeToolTip": "ContosoUniversity\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T11:47:21.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Students\\Details.cshtml",
+              "ToolTip": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T13:05:43.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\SchoolContext.cs",
+              "ToolTip": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T11:35:22.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\Student.cs",
+              "ToolTip": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Models\\Student.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T11:03:38.944Z",
               "EditorCaption": ""
             },
             {
@@ -238,38 +285,40 @@
               "RelativeDocumentMoniker": "ContosoUniversity\\Controllers\\StudentsController.cs",
               "ToolTip": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "ContosoUniversity\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T01:42:00.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAD0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T02:31:37.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "ContosoUniversity\\Data\\DbInitializer.cs",
               "ToolTip": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Data\\DbInitializer.cs",
               "RelativeToolTip": "ContosoUniversity\\Data\\DbInitializer.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAgwEMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T03:46:32.787Z"
+              "WhenOpened": "2025-10-06T03:46:32.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Data.cs",
-              "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Data.cs",
-              "RelativeDocumentMoniker": "ContosoUniversity\\Data.cs",
-              "ToolTip": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Data.cs",
-              "RelativeToolTip": "ContosoUniversity\\Data.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T12:12:49.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\appsettings.json",
               "RelativeDocumentMoniker": "ContosoUniversity\\appsettings.json",
@@ -282,32 +331,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Program.cs",
-              "RelativeDocumentMoniker": "ContosoUniversity\\Program.cs",
-              "ToolTip": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Program.cs",
-              "RelativeToolTip": "ContosoUniversity\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Data.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Data.cs",
+              "ToolTip": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Data.cs",
+              "RelativeToolTip": "ContosoUniversity\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T11:47:21.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SchoolContext.cs",
-              "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Models\\SchoolContext.cs",
-              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\SchoolContext.cs",
-              "ToolTip": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Models\\SchoolContext.cs",
-              "RelativeToolTip": "ContosoUniversity\\Models\\SchoolContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T11:35:22.048Z"
+              "WhenOpened": "2025-10-04T12:12:49.231Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Students\\Index.cshtml",
+              "ToolTip": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T01:49:49.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Course.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Models\\Course.cs",
               "RelativeDocumentMoniker": "ContosoUniversity\\Models\\Course.cs",
@@ -319,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "ContosoUniversity\\Models\\Enrollment.cs",
@@ -331,19 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\Student.cs",
-              "ToolTip": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Models\\Student.cs",
-              "RelativeToolTip": "ContosoUniversity\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T11:03:38.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Home\\Index.cshtml",
@@ -355,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Learn Microsoft\\ContosoUniversity\\ContosoUniversity\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Shared\\_Layout.cshtml",
